@@ -1,0 +1,9 @@
+Package: com.test.tweak
+Name: Tweak_Name
+Version: 0.1
+Architecture: iphoneos-arm64
+Description: Tweakの説明
+Maintainer: 開発者名
+Author: 開発者名
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
